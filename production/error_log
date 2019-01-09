@@ -1,0 +1,2 @@
+[30-Jan-2017 16:14:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/jlwood/public_html/manage/data/production/principal_emails.php on line 134
+[04-Feb-2017 02:18:17 UTC] PHP Parse error:  syntax error, unexpected '" ORDER BY school ASC"' (T_CONSTANT_ENCAPSED_STRING) in /home/jlwood/public_html/manage/data/production/school_associated.php on line 114
